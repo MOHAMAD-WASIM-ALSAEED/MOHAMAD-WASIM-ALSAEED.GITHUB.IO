@@ -146,7 +146,7 @@ button span.jam{
 }
 .img_container img{
 	height: auto;
-	width: 100%;
+	width: 70%;
 	object-fit: cover;
 }
 input{
@@ -406,8 +406,6 @@ textarea{
 	margin: 5px;
 	border-radius: 50%;
 	position: relative;
-	z-index: 1;
-	background: var(--mode_color_v3);
 }
 .Banner_Portion .banner_img:before{
 	content: '';

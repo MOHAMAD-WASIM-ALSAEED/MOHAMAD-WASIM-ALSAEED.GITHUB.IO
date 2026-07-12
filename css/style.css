@@ -146,7 +146,8 @@ button span.jam{
 }
 .img_container img{
 	height: auto;
-	width: 70%;
+	width: 60%;
+	margin-left: 100px;
 	object-fit: cover;
 }
 input{
